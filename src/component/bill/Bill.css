@@ -1,0 +1,11 @@
+
+td {
+    width: 300px;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+.BilItemImg{
+    width: 150px;
+    height: auto;
+}

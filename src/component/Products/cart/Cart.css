@@ -1,0 +1,24 @@
+.Cart{
+    
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding: 30px;
+    width: 300px;
+    height: 450px;
+    background-color: #FAF4EF;
+}
+
+
+.CartImg {
+    
+    height: 252px;
+    width : 300px;
+}
+
+button {
+    margin-top: 30px;
+    height: 52px;
+    width : 100px;
+    border-radius: 10px;
+}
